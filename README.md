@@ -6,7 +6,7 @@
 
 . O arquivo heart_cleveland_upload.csv é o dataset Heart Disease Cleveland da UCI
 
-. O arquivo MVP_LUIS_CLAUDIO.ipynb é toda rotina do relatório referente a disciplina Análise Exploratória e Pré-Processamento de Dados do MVP
+. O arquivo MMVP_LUIS_CLAUDIO_SPRINT 2.ipynb é toda rotina do relatório referente a disciplina Análise Exploratória e Pré-Processamento de Dados do MVP
 
 . O arquivo Dicionário de dados.xlsx contém a base do dataset Heart Disease Cleveland da UCI e a descrição das colunas.
 
